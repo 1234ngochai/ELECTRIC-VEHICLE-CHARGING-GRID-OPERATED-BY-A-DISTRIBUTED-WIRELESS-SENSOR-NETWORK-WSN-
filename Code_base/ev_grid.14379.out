@@ -1,0 +1,132 @@
+BASE STATION received report: ALERT: Node 1 at (0,1) - Heavily utilized quadrant detected on 2023-10-20 19:33:21.399270. Messages exchanged: 6. Heavily utilized neighbors: Node 0, Node 4, Node 2, 
+Communication time (in microseconds) between node and base-station: 18731
+========================================
+Reported Node	Nearby Nodes
+----------------------------------------
+Node 1 at (0,1)
+----------------------------------------
+Node 0
+Node 4
+Node 2
+----------------------------------------
+Nearby nodes for Node 1: Node 3, Node 5, Node 7, 
+----------------------------------------
+Nearby avaliable nodes for Node(for the last 1 second) 1: Node 3, Node 5, Node 7, 
+========================================
+BASE STATION received report: ALERT: Node 5 at (1,2) - Heavily utilized quadrant detected on 2023-10-20 19:33:21.400146. Messages exchanged: 6. Heavily utilized neighbors: Node 2, Node 4, Node 8, 
+Communication time (in microseconds) between node and base-station: 28050
+========================================
+Reported Node	Nearby Nodes
+----------------------------------------
+Node 5 at (1,2)
+----------------------------------------
+Node 2
+Node 4
+Node 8
+----------------------------------------
+Nearby nodes for Node 5: Node 1, Node 3, Node 7, 
+----------------------------------------
+Nearby avaliable nodes for Node(for the last 1 second) 5: Node 3, Node 7, 
+========================================
+BASE STATION received report: ALERT: Node 8 at (2,2) - Heavily utilized quadrant detected on 2023-10-20 19:33:21.400109. Messages exchanged: 4. Heavily utilized neighbors: Node 5, Node 7, 
+Communication time (in microseconds) between node and base-station: 38269
+========================================
+Reported Node	Nearby Nodes
+----------------------------------------
+Node 8 at (2,2)
+----------------------------------------
+Node 5
+Node 7
+----------------------------------------
+Nearby nodes for Node 8: Node 2, Node 4, Node 6, 
+----------------------------------------
+Nearby avaliable nodes for Node(for the last 1 second) 8: Node 6, 
+========================================
+BASE STATION received report: ALERT: Node 3 at (1,0) - Heavily utilized quadrant detected on 2023-10-20 19:33:21.402433. Messages exchanged: 6. Heavily utilized neighbors: Node 0, Node 6, Node 4, 
+Communication time (in microseconds) between node and base-station: 46130
+========================================
+Reported Node	Nearby Nodes
+----------------------------------------
+Node 3 at (1,0)
+----------------------------------------
+Node 0
+Node 6
+Node 4
+----------------------------------------
+Nearby nodes for Node 3: Node 1, Node 5, Node 7, 
+----------------------------------------
+Nearby avaliable nodes for Node(for the last 1 second) 3: No near avaliable node
+========================================
+BASE STATION received report: ALERT: Node 0 at (0,0) - Heavily utilized quadrant detected on 2023-10-20 19:33:21.401745. Messages exchanged: 4. Heavily utilized neighbors: Node 3, Node 1, 
+Communication time (in microseconds) between node and base-station: 56899
+========================================
+Reported Node	Nearby Nodes
+----------------------------------------
+Node 0 at (0,0)
+----------------------------------------
+Node 3
+Node 1
+----------------------------------------
+Nearby nodes for Node 0: Node 2, Node 4, Node 6, 
+----------------------------------------
+Nearby avaliable nodes for Node(for the last 1 second) 0: No near avaliable node
+========================================
+BASE STATION received report: ALERT: Node 7 at (2,1) - Heavily utilized quadrant detected on 2023-10-20 19:33:21.400199. Messages exchanged: 6. Heavily utilized neighbors: Node 4, Node 6, Node 8, 
+Communication time (in microseconds) between node and base-station: 68627
+========================================
+Reported Node	Nearby Nodes
+----------------------------------------
+Node 7 at (2,1)
+----------------------------------------
+Node 4
+Node 6
+Node 8
+----------------------------------------
+Nearby nodes for Node 7: Node 1, Node 3, Node 5, 
+----------------------------------------
+Nearby avaliable nodes for Node(for the last 1 second) 7: No near avaliable node
+========================================
+BASE STATION received report: ALERT: Node 4 at (1,1) - Heavily utilized quadrant detected on 2023-10-20 19:33:21.401688. Messages exchanged: 8. Heavily utilized neighbors: Node 1, Node 3, Node 7, Node 5, 
+Communication time (in microseconds) between node and base-station: 87420
+========================================
+Reported Node	Nearby Nodes
+----------------------------------------
+Node 4 at (1,1)
+----------------------------------------
+Node 1
+Node 3
+Node 7
+Node 5
+----------------------------------------
+Nearby nodes for Node 4: Node 0, Node 2, Node 6, Node 8, 
+----------------------------------------
+Nearby avaliable nodes for Node(for the last 1 second) 4: No near avaliable node
+========================================
+BASE STATION received report: ALERT: Node 2 at (0,2) - Heavily utilized quadrant detected on 2023-10-20 19:33:21.399104. Messages exchanged: 4. Heavily utilized neighbors: Node 1, Node 5, 
+Communication time (in microseconds) between node and base-station: 100193
+========================================
+Reported Node	Nearby Nodes
+----------------------------------------
+Node 2 at (0,2)
+----------------------------------------
+Node 1
+Node 5
+----------------------------------------
+Nearby nodes for Node 2: Node 0, Node 4, Node 8, 
+----------------------------------------
+Nearby avaliable nodes for Node(for the last 1 second) 2: No near avaliable node
+========================================
+BASE STATION received report: ALERT: Node 6 at (2,0) - Heavily utilized quadrant detected on 2023-10-20 19:33:21.402424. Messages exchanged: 4. Heavily utilized neighbors: Node 3, Node 7, 
+Communication time (in microseconds) between node and base-station: 107062
+========================================
+Reported Node	Nearby Nodes
+----------------------------------------
+Node 6 at (2,0)
+----------------------------------------
+Node 3
+Node 7
+----------------------------------------
+Nearby nodes for Node 6: Node 0, Node 4, Node 8, 
+----------------------------------------
+Nearby avaliable nodes for Node(for the last 1 second) 6: No near avaliable node
+========================================
